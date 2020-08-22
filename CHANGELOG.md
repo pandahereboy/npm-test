@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.8](https://github.com/pandahereboy/npm-test/compare/v2.0.7...v2.0.8) (2020-08-22)
+
 ### [2.0.7](https://github.com/pandahereboy/npm-test/compare/v2.0.5...v2.0.7) (2020-08-22)
 
 ### [2.0.4](https://github.com/pandahereboy/npm-test/compare/v2.0.3...v2.0.4) (2020-08-22)
