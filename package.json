@@ -1,8 +1,11 @@
 {
-  "name": "npm-package-test",
-  "version": "1.0.1-testing.0",
-  "main": "index.js",
-  "repository": "https://github.com/pandahereboy/npm-test.git",
-  "author": "gtliao <gt.liao@aftership.com>",
-  "license": "MIT"
+    "name": "npm-package-test",
+    "version": "1.0.1-testing.0",
+    "main": "index.js",
+    "repository": "https://github.com/pandahereboy/npm-test.git",
+    "author": "gtliao <gt.liao@aftership.com>",
+    "scripts": {
+        "release": "standard-version"
+    },
+    "license": "MIT"
 }
